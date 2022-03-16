@@ -1,0 +1,7 @@
+{
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": false,
+  "view": "browser",
+  "editor.wordWrap": "on",
+  "disableLogging": true
+}
